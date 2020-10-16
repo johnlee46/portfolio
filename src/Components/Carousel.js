@@ -17,7 +17,7 @@ class Carousel extends React.Component{
                 id: 0,
                 title: 'BCIT-Maps',
                 subTitle: 'Interactive map for wayfinding at bcit',
-                imgSrc: imageone,
+                imgSrc: require('../Assets/images/imageone.png'),
                 link: 'https://bcit-map-application.herokuapp.com/',
                 selected: false
             },
@@ -25,7 +25,7 @@ class Carousel extends React.Component{
                 id: 1,
                 title: 'Taoex.club',
                 subTitle: 'Social hub for the Taoex game',
-                imgSrc: imagetwo,
+                imgSrc: require('../Assets/images/imagetwo.png'),
                 link: 'Taoex.club',
                 selected: false
             },
@@ -33,7 +33,7 @@ class Carousel extends React.Component{
                 id: 2,
                 title: 'BCIT-Maps',
                 subTitle: 'Interactive map for wayfinding at bcit',
-                imgSrc: imagetwo,
+                imgSrc: require('../Assets/images/imageone.png'),
                 link: 'https://bcit-map-application.herokuapp.com/',
                 selected: false
             },
