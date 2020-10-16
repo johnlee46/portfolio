@@ -2,7 +2,7 @@ import React from 'react';
 
 function ContactPage(){
     return (
-        <p>ContactPage</p>
+        <p>Refer to my contact details that I provided on my resume</p>
     )
 }
 
