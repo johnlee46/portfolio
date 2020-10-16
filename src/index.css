@@ -16,6 +16,8 @@ code {
 .links {
   height: 100px;
   width: 100px;
+  margin-left:50%;
+  margin-right:50%;
 }
 
 .j-card {

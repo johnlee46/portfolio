@@ -31,10 +31,10 @@ class Carousel extends React.Component{
             },
             {
                 id: 2,
-                title: 'BCIT-Maps',
-                subTitle: 'Interactive map for wayfinding at bcit',
-                imgSrc: require('../Assets/images/imageone.png'),
-                link: 'https://bcit-map-application.herokuapp.com/',
+                title: 'AnonMeet',
+                subTitle: 'Group ETA app done in Kotlin for Android',
+                imgSrc: require('../Assets/images/imagethree.png'),
+                link: 'https://github.com/johnlee46/AnonMeeting',
                 selected: false
             },
         ]

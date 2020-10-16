@@ -11,7 +11,7 @@ function HomePage(props){
             <a href="https://www.linkedin.com/in/johnlee46">
             <img class="links" src={linkedin} alt="linkedin"></img>
                 </a>
-        <Examples title={props.title}/>
+        <Examples title={props.title} subTitle={props.subTitle} text={props.text}/>
         <Carousel />
         </div>
     );

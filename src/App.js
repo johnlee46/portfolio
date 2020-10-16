@@ -22,9 +22,9 @@ class App extends React.Component{
         
       ],
       home: {
-        title: 'Portfolio',
+        title: 'John\'s Portfolio',
         subTitle: 'Projects',
-        text: 'Description of projects'
+        text: 'I\'m a graduate of the CST program at BCIT with the Cloud Computing option.  I did a Co-op at BlueShore Financial as a Developer Intern and developed tools using C#.  Welcome to my portfolio website, this was done as a learning project for React.  Below are a couple of the project i\'ve worked on'
       },
       about: {
         title: 'About Me',
@@ -37,7 +37,7 @@ class App extends React.Component{
   }
   render(){
     return (
-      <Router basename='/'>
+      <Router basename='/myfirstreact'>
         <Container className="p-0" fluid={true}>
           <Navbar className="border-bottom" bg="transparent" expand="lg">
             <Navbar.Brand>John Lee</Navbar.Brand>
