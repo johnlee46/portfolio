@@ -1,8 +1,8 @@
 import React from 'react';
 
-import imageone from '../Assets/images/imageone.png';
-import imagetwo from '../Assets/images/imagetwo.png';
-import imagethree from '../Assets/images/imagethree.png';
+import imageone from '../public/images/imageone.png';
+import imagetwo from '../public/images/imagetwo.png';
+import imagethree from '../public/images/imagethree.png';
 import Card from '../Components/Card'
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
