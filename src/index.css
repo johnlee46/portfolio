@@ -12,6 +12,12 @@ code {
     monospace;
 }
 
+
+.links {
+  height: 100px;
+  width: 100px;
+}
+
 .j-card {
   margin: 20px;
 }
