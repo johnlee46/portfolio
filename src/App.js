@@ -37,7 +37,7 @@ class App extends React.Component{
   }
   render(){
     return (
-      <Router>
+      <Router basename='/'>
         <Container className="p-0" fluid={true}>
           <Navbar className="border-bottom" bg="transparent" expand="lg">
             <Navbar.Brand>John Lee</Navbar.Brand>
