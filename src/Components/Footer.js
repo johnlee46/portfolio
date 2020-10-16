@@ -12,7 +12,7 @@ function Footer(){
                     John Lee
                 </Col>
                 <Col className="p-0 d-flex justify-content-end" md={3}>
-                    This site was made by John Lee.
+                    Portfolio for John Lee
                 </Col>
             </Row>
         </Container>
